@@ -1,0 +1,41 @@
+@import "tailwindcss";
+
+@theme inline {
+  /* font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400; */
+
+  /* Tus colores personalizados - Azul Medio (#376d98) */
+  --color-myMedium-lighter: #4a7ba7;
+  --color-myMedium: #376d98;
+  --color-myMedium-darker: #2c5a7a;
+  
+  /* Tus colores personalizados - Azul Claro (#c5d0e2) */
+  --color-myLight-lighter: #e1e8f0;
+  --color-myLight: #c5d0e2;
+  --color-myLight-darker: #a8b8d0;
+  
+  /* Tus colores personalizados - Azul Oscuro (#091846) */
+  --color-myDark-lighter: #1a2759;
+  --color-myDark: #091846;
+  --color-myDark-darker: #050f2e;
+  
+  /* Tus colores personalizados - Azul Cyan (#58abd3) */
+  --color-myCyan-lighter: #79bcdc;
+  --color-myCyan: #58abd3;
+  --color-myCyan-darker: #42809e;
+
+  /* Custom breakpoints/screens */
+  --breakpoint-xs: 375px;
+  --breakpoint-xsm: 470px;
+  --breakpoint-mid: 475px;
+  --breakpoint-msm: 550px;
+  --breakpoint-sm: 640px;
+  --breakpoint-md: 768px;
+  --breakpoint-mlx: 850px;
+  --breakpoint-lx: 900px;
+  --breakpoint-lxg: 950px;
+  --breakpoint-lg: 1024px;
+  --breakpoint-xl: 1280px;
+  --breakpoint-2xl: 1536px;
+}
