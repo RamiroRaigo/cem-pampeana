@@ -32,7 +32,7 @@ export default function Footer(){
               </div> 
 
              <div className='lx:justify-self-center'>
-                <p className="mb-6 text-xl sm:text-2xl lg:text-3xl font-bold">LINKS</p>
+                <p className="mb-6 text-xl sm:text-2xl lg:text-3xl font-bold">ENLACES</p>
                  <ul>
                     <li className="text-xl mb-5">
                         <a href="/" className="block w-full hover:underline hover:text-myLight-darker">Inicio</a>
